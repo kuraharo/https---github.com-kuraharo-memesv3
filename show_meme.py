@@ -10,8 +10,8 @@ if __name__ == '__main__':
     plt.imshow(img)
     plt.axis('off')
     plt.show()
-    ;;;qwewqe #<-------this bug
+    
     #let's find hash
     # 6e93b81e0c4ae59a181c3678f16dde050a5232ba   <----hash
     print("commit number 2")
-   
+    
